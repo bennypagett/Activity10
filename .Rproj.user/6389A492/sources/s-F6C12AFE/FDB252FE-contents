@@ -26,6 +26,15 @@ library(psych)
 library(performance)
 ```
 
+```{r summary, include=TRUE}
+str(df)
+head(df, 10)
+tail(df, 10)
+
+summary(df)
+describe(df)
+```
+
 
 ## VO2 Analysis - R Markdown
 
