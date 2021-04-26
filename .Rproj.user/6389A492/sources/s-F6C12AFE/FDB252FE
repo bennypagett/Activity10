@@ -3,24 +3,25 @@
     "path": "~/Documents/MACE/DAS/VO2_Activity_10/Week_10_VO2.Rmd",
     "project_path": "Week_10_VO2.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "866221542",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1619441761202.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "37,0",
-        "scrollLine": "15"
+        "cursorPosition": "29,79",
+        "scrollLine": "12",
+        "last_setup_crc32": "F6C12AFE21dbc1a4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1619449835,
+    "lastKnownWriteTime": 1619471068,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1619450101608,
+    "last_content_update": 1619471068986,
     "read_only": false,
     "read_only_alternatives": []
 }
